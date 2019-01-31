@@ -1,4 +1,4 @@
-# S4-Jeudi_Dogsitter by Hugo Boidin
+# S4-Jeudi_Gossip_project by Hugo Boidin
 <br>
 <h2>- 1 : "bundle install" : pour activer les gems, pratique pour Faker.</h2>
 
